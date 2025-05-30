@@ -3,7 +3,7 @@ Repozytorium na projekt RTA
 
 Opis najważniejszych plików wykorzystywanych w projekcie:
 
-alerts.py - plik odpowiadający za wyświetlanie powiadomień o zaistniałych arbitrażach w konsoli oraz dashboardzie
+alerts.py - plik odpowiadający za wyświetlanie powiadomień o zaistniałych arbitrażach w konsoli oraz dashboardzie \
 arbitrage.py - plik obliczający arbitraż oraz podział środków pomiędzy bukmacherów
 docker-compose.yml - plik odpowiadający za działanie kafki wewnątrz konetera
 file_mock_api.py - plika zawierający funkcję imitującą API na podstawie danych wygenerowanych przy pliku generator.py
