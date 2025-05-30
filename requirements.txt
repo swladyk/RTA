@@ -1,0 +1,30 @@
+# Core dependencies
+kafka-python==2.0.2
+aiohttp==3.8.5
+
+# Data processing
+pandas==2.0.3
+numpy==1.24.3
+
+# Web framework (for dashboard) - Fixed version conflicts
+flask==2.2.5
+flask-socketio==5.3.4
+
+# Database (optional)
+sqlalchemy==2.0.19
+
+# Visualization - Updated to compatible versions
+plotly==5.15.0
+dash==2.11.1
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Testing
+pytest==7.4.0
+pytest-asyncio==0.21.1
+
+# Additional dependencies that might be needed
+asyncio-mqtt==0.16.1
+werkzeug==2.2.3
