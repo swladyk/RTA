@@ -1,4 +1,4 @@
-# RTA
+# Arbitraż Bukmacherski w Czasie Rzeczywistym: Analiza i Identyfikacja Okazji
 Repozytorium na projekt RTA
 
 Opis najważniejszych plików wykorzystywanych w projekcie:
